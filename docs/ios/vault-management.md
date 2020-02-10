@@ -6,6 +6,10 @@ To create a new vault, click on the plus sign ① and choose _Create New Vault_ 
 
 !!! note
     If you already have a vault created with the desktop app and just want to add this vault to your mobile app, please select _Add Existing Vault_ and proceed. [documentation will follow]
+        
+!!! note
+    If you would like to use Cryptomator with iCloud Drive and access your files from all of your devices, you would have to use the Cryptomator folder in root of iCloud Drive. Vaults created with the desktop application of Cryptomator and located outside of this folder can't be accessed by the iOS app.
+This information only applies on the usage with iCloud Drive! Other cloud storage services aren't affected.
 
 You will now be prompted to select the cloud provider where you want to store your vault.
 
